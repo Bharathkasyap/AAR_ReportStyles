@@ -1160,3 +1160,11 @@ The issue was escalated to the SOC, followed by investigation, isolation, and co
 
 ---
 
+## 📄 License
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
+You may copy, adapt, and share this content for educational or personal use, but not for commercial purposes.  
+Attribution is required.
+
+© 2025 Bharath Devulapalli. All rights reserved.
+
