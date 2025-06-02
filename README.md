@@ -1162,9 +1162,8 @@ The issue was escalated to the SOC, followed by investigation, isolation, and co
 
 ## 📄 License
 
-This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
-You may copy, adapt, and share this content for educational or personal use, but not for commercial purposes.  
-Attribution is required.
+This project is licensed under the MIT License — you are free to use, modify, and distribute it for personal or commercial purposes.  
+Please retain credit to the original author where applicable.
 
 © 2025 Bharath Devulapalli. All rights reserved.
 
