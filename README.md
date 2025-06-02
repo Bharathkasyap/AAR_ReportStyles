@@ -1,6 +1,35 @@
 # 📄 Full Cybersecurity Incident After Action Reports (AARs)
 
 <details>
+<summary>AAR #4: Unauthorized Cloud Storage Use</summary>
+
+<span style="color:blue">**Date**</span>: (Insert Date)  
+<span style="color:blue">**Summary**</span>: This incident involved a case of **Unauthorized Cloud Storage Use**.  
+A security control or detection system identified abnormal behavior.  
+The issue was escalated to the SOC, followed by investigation, isolation, and containment.
+
+<span style="color:blue">**Response Actions**</span>:  
+- Affected assets were isolated.  
+- Initial access and lateral movement were analyzed.  
+- Logs, alerts, and network activity were reviewed.  
+- Root cause was identified and reported.
+
+**Root Cause**:  
+- (Insert root cause specific to scenario)  
+- Related misconfiguration, unpatched service, user error, or exploit technique.
+
+<span style="color:blue">**Recommendations**</span>:  
+- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+- Update related documentation, IR plan, and controls.
+
+<span style="color:blue">**Impact**</span>:  
+- (Insert estimated exposure, data affected, downtime, or cost if applicable)  
+- Incident classified as low/medium/high severity.
+
+</details>
+
+
+<details>
 <summary>AAR #1: Ransomware on Shared Drive</summary>
 
 **Date**: (Insert Date)  
