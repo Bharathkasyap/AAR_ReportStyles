@@ -1,1111 +1,1162 @@
 # 📄 Full Cybersecurity Incident After Action Reports (AARs)
 
 <details>
-<summary>AAR #4: Unauthorized Cloud Storage Use</summary>
+<summary><strong>AAR #1: Ransomware on Shared Drive</strong></summary>
 
-<span style="color:blue">**Date**</span>: (Insert Date)  
-<span style="color:blue">**Summary**</span>: This incident involved a case of **Unauthorized Cloud Storage Use**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Ransomware on Shared Drive</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-<span style="color:blue">**Response Actions**</span>:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-<span style="color:blue">**Recommendations**</span>:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-<span style="color:blue">**Impact**</span>:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
-
 </details>
 
+---
 
 <details>
-<summary>AAR #1: Ransomware on Shared Drive</summary>
+<summary><strong>AAR #2: Brute Force Attack on VPN</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Ransomware on Shared Drive**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Brute Force Attack on VPN</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #2: Brute Force Attack on VPN</summary>
+<summary><strong>AAR #3: Data Exfiltration via USB</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Brute Force Attack on VPN**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Data Exfiltration via USB</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #3: Data Exfiltration via USB</summary>
+<summary><strong>AAR #4: Unauthorized Cloud Storage Use</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Data Exfiltration via USB**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Unauthorized Cloud Storage Use</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #4: Unauthorized Cloud Storage Use</summary>
+<summary><strong>AAR #5: Web Defacement</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Unauthorized Cloud Storage Use**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Web Defacement</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #5: Web Defacement</summary>
+<summary><strong>AAR #6: Malware from Infected Installer</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Web Defacement**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Malware from Infected Installer</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #6: Malware from Infected Installer</summary>
+<summary><strong>AAR #7: SQL Injection Attempt</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Malware from Infected Installer**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>SQL Injection Attempt</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #7: SQL Injection Attempt</summary>
+<summary><strong>AAR #8: Office 365 Phishing</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **SQL Injection Attempt**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Office 365 Phishing</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #8: Office 365 Phishing</summary>
+<summary><strong>AAR #9: Insider Password Sharing</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Office 365 Phishing**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Insider Password Sharing</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #9: Insider Password Sharing</summary>
+<summary><strong>AAR #10: SIEM Alert – Beaconing Detected</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Insider Password Sharing**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>SIEM Alert – Beaconing Detected</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #10: SIEM Alert – Beaconing Detected</summary>
+<summary><strong>AAR #11: Keylogger Infection via Browser Extension</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **SIEM Alert – Beaconing Detected**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Keylogger Infection via Browser Extension</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #11: Keylogger Infection via Browser Extension</summary>
+<summary><strong>AAR #12: Honeypot Alert – Credential Stuffing</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Keylogger Infection via Browser Extension**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Honeypot Alert – Credential Stuffing</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #12: Honeypot Alert – Credential Stuffing</summary>
+<summary><strong>AAR #13: Insider Threat – Sensitive File Download</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Honeypot Alert – Credential Stuffing**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Insider Threat – Sensitive File Download</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #13: Insider Threat – Sensitive File Download</summary>
+<summary><strong>AAR #14: Privilege Escalation via Local Exploit</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Insider Threat – Sensitive File Download**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Privilege Escalation via Local Exploit</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #14: Privilege Escalation via Local Exploit</summary>
+<summary><strong>AAR #15: Denial of Service (DoS) via DNS Flood</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Privilege Escalation via Local Exploit**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Denial of Service (DoS) via DNS Flood</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #15: Denial of Service (DoS) via DNS Flood</summary>
+<summary><strong>AAR #16: Cloud Storage Misconfiguration – Public S3 Bucket</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Denial of Service (DoS) via DNS Flood**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Cloud Storage Misconfiguration – Public S3 Bucket</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #16: Cloud Storage Misconfiguration – Public S3 Bucket</summary>
+<summary><strong>AAR #17: Suspicious PowerShell Activity</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Cloud Storage Misconfiguration – Public S3 Bucket**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Suspicious PowerShell Activity</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #17: Suspicious PowerShell Activity</summary>
+<summary><strong>AAR #18: Phishing via QR Code</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Suspicious PowerShell Activity**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Phishing via QR Code</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #18: Phishing via QR Code</summary>
+<summary><strong>AAR #19: Third-Party Vendor Breach</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Phishing via QR Code**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Third-Party Vendor Breach</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #19: Third-Party Vendor Breach</summary>
+<summary><strong>AAR #20: Bluetooth Recon from Physical Attacker</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Third-Party Vendor Breach**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Bluetooth Recon from Physical Attacker</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #20: Bluetooth Recon from Physical Attacker</summary>
+<summary><strong>AAR #21: Social Engineering via IT Helpdesk Impersonation</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Bluetooth Recon from Physical Attacker**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Social Engineering via IT Helpdesk Impersonation</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #21: Social Engineering via IT Helpdesk Impersonation</summary>
+<summary><strong>AAR #22: USB Drop Attack</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Social Engineering via IT Helpdesk Impersonation**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>USB Drop Attack</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #22: USB Drop Attack</summary>
+<summary><strong>AAR #23: Unpatched WordPress Plugin Exploited</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **USB Drop Attack**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Unpatched WordPress Plugin Exploited</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #23: Unpatched WordPress Plugin Exploited</summary>
+<summary><strong>AAR #24: Rogue Wireless Access Point Detected</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Unpatched WordPress Plugin Exploited**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Rogue Wireless Access Point Detected</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #24: Rogue Wireless Access Point Detected</summary>
+<summary><strong>AAR #25: Zero-Day Exploited in VPN Appliance</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Rogue Wireless Access Point Detected**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Zero-Day Exploited in VPN Appliance</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #25: Zero-Day Exploited in VPN Appliance</summary>
+<summary><strong>AAR #26: Credential Harvesting via LinkedIn Phishing</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Zero-Day Exploited in VPN Appliance**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Credential Harvesting via LinkedIn Phishing</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #26: Credential Harvesting via LinkedIn Phishing</summary>
+<summary><strong>AAR #27: Data Leak via Misconfigured GitHub Repo</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Credential Harvesting via LinkedIn Phishing**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Data Leak via Misconfigured GitHub Repo</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #27: Data Leak via Misconfigured GitHub Repo</summary>
+<summary><strong>AAR #28: Web App DoS via XML Bomb</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Data Leak via Misconfigured GitHub Repo**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Web App DoS via XML Bomb</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #28: Web App DoS via XML Bomb</summary>
+<summary><strong>AAR #29: IoT Camera Exposed via UPnP</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Web App DoS via XML Bomb**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>IoT Camera Exposed via UPnP</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #29: IoT Camera Exposed via UPnP</summary>
+<summary><strong>AAR #30: Ransomware Simulation Drill</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **IoT Camera Exposed via UPnP**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Ransomware Simulation Drill</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #30: Ransomware Simulation Drill</summary>
+<summary><strong>AAR #31: Insider Email Auto-Forward Rule</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Ransomware Simulation Drill**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Insider Email Auto-Forward Rule</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #31: Insider Email Auto-Forward Rule</summary>
+<summary><strong>AAR #32: Third-Party App Token Hijack</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Insider Email Auto-Forward Rule**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Third-Party App Token Hijack</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #32: Third-Party App Token Hijack</summary>
+<summary><strong>AAR #33: Malware Embedded in QR Code Invoice</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Third-Party App Token Hijack**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Malware Embedded in QR Code Invoice</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #33: Malware Embedded in QR Code Invoice</summary>
+<summary><strong>AAR #34: Data Breach via Unsecured FTP Server</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Malware Embedded in QR Code Invoice**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Data Breach via Unsecured FTP Server</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #34: Data Breach via Unsecured FTP Server</summary>
+<summary><strong>AAR #35: Account Takeover via SIM Swap</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Data Breach via Unsecured FTP Server**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Account Takeover via SIM Swap</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #35: Account Takeover via SIM Swap</summary>
+<summary><strong>AAR #36: Unintentional Data Exposure via Shared Link</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Account Takeover via SIM Swap**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Unintentional Data Exposure via Shared Link</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #36: Unintentional Data Exposure via Shared Link</summary>
+<summary><strong>AAR #37: Dev Database with PII Found Online</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Unintentional Data Exposure via Shared Link**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Dev Database with PII Found Online</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #37: Dev Database with PII Found Online</summary>
+<summary><strong>AAR #38: Malware Persistence via Task Scheduler</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Dev Database with PII Found Online**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Malware Persistence via Task Scheduler</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #38: Malware Persistence via Task Scheduler</summary>
+<summary><strong>AAR #39: Phishing via Fake Zoom Invite</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Malware Persistence via Task Scheduler**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Phishing via Fake Zoom Invite</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
+
+---
 
 <details>
-<summary>AAR #39: Phishing via Fake Zoom Invite</summary>
+<summary><strong>AAR #40: Target POS Malware Attack</strong></summary>
 
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Phishing via Fake Zoom Invite**.  
+<span style='color:blue'><strong>Date</strong></span>: (Insert Date)  
+<span style='color:blue'><strong>Summary</strong></span>: This incident involved a case of <strong>Target POS Malware Attack</strong>.  
 A security control or detection system identified abnormal behavior.  
 The issue was escalated to the SOC, followed by investigation, isolation, and containment.
 
-**Response Actions**:  
+<span style='color:blue'><strong>Response Actions</strong></span>:  
 - Affected assets were isolated.  
 - Initial access and lateral movement were analyzed.  
 - Logs, alerts, and network activity were reviewed.  
 - Root cause was identified and reported.
 
-**Root Cause**:  
+<strong>Root Cause</strong>:  
 - (Insert root cause specific to scenario)  
 - Related misconfiguration, unpatched service, user error, or exploit technique.
 
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
+<span style='color:blue'><strong>Recommendations</strong></span>:  
+- (Insert 3–5 recommended actions such as patching, training, segmentation, MFA, etc.)  
 - Update related documentation, IR plan, and controls.
 
-**Impact**:  
+<span style='color:blue'><strong>Impact</strong></span>:  
 - (Insert estimated exposure, data affected, downtime, or cost if applicable)  
 - Incident classified as low/medium/high severity.
 </details>
 
-<details>
-<summary>AAR #40: Target POS Malware Attack</summary>
-
-**Date**: (Insert Date)  
-**Summary**: This incident involved a case of **Target POS Malware Attack**.  
-A security control or detection system identified abnormal behavior.  
-The issue was escalated to the SOC, followed by investigation, isolation, and containment.
-
-**Response Actions**:  
-- Affected assets were isolated.  
-- Initial access and lateral movement were analyzed.  
-- Logs, alerts, and network activity were reviewed.  
-- Root cause was identified and reported.
-
-**Root Cause**:  
-- (Insert root cause specific to scenario)  
-- Related misconfiguration, unpatched service, user error, or exploit technique.
-
-**Recommendations**:  
-- (Insert 3-5 recommended actions such as patching, training, segmentation, MFA, etc.)  
-- Update related documentation, IR plan, and controls.
-
-**Impact**:  
-- (Insert estimated exposure, data affected, downtime, or cost if applicable)  
-- Incident classified as low/medium/high severity.
-</details>
+---
 
